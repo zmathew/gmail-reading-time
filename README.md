@@ -6,7 +6,7 @@ Chrome extension for Gmail to display the reading time of your email while compo
 
 ## Installation
 
-* [Download this repo as a zip](archive/master.zip).
+* [Download this repo as a zip](https://github.com/zmathew/gmail-reading-time/archive/master.zip).
 * Open [Chrome Extensions Tab](chrome://extensions).
 * Enable **Developer mode** (top right).
 * Drag the downloaded zip into the browser window.
