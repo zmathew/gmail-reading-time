@@ -1,7 +1,7 @@
 # Email Reading Time Gmail Chrome Extension
 Chrome extension for Gmail to display the reading time of your email while composing it.
 
-![Screenshot of email reading time displayed in Gmail](demo/gmail-example.png?raw=true "Email Reading Time Gmail Chrome Extension")
+![Screenshot of email reading time displayed in Gmail](https://github.com/zmathew/gmail-reading-time/blob/demo/demo/gmail-example.png?raw=true "Email Reading Time Gmail Chrome Extension")
 
 
 ## Installation
