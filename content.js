@@ -5,9 +5,9 @@ InboxSDK.load('1', 'sdk_reading-time_cfb63eef93').then(function(sdk){
 	// the SDK has been loaded, now do something with it!
 	sdk.Compose.registerComposeViewHandler(function(composeView){
 
-		const statusBarView = composeView.addStatusBar({});
+		const statusBarView = composeView.addStatusBar({height: 23});
 		statusBarView.el.classList.add('hb');
-		statusBarView.el.style.cssText = "font-size: 0.7em";
+		statusBarView.el.style.cssText = "font-size: 0.7em; padding-bottom: 0; margin-top: -0.5em; height: 23px";
 
 		const timer = setInterval(function () {
 			const content = composeView.getTextContent();
